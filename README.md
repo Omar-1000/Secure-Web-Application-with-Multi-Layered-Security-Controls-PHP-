@@ -1,7 +1,7 @@
 # 🔐 Multi-Layered Secure Web Application (PHP)
 
 <p align="center">
-  <img src="screenshots/01_secure_interface.png" width="850">
+  <img src="01_The_secure_website_interface.png" width="850">
 </p>
 
 ## 📌 Project Overview
@@ -229,27 +229,27 @@ db/database.sql
 
 ### 🔐 Main Secure Interface
 <p align="center">
-  <img src="screenshots/01_The_secure_website_interface.png" width="800">
+  <img src="01_The_secure_website_interface.png" width="800">
 </p>
 
 ### 🔑 Login Page
 <p align="center">
-  <img src="screenshots/02_sign in page.png" width="700">
+  <img src="02_sign in page.png" width="700">
 </p>
 
 ### 📝 Registration Page
 <p align="center">
-  <img src="screenshots/03_sign up page (regidter).png" width="700">
+  <img src="03_sign up page (regidter).png" width="700">
 </p>
 
 ### 🔢 OTP Verification
 <p align="center">
-  <img src="screenshots/04_OTP verification.png" width="700">
+  <img src="04_OTP verification.png" width="700">
 </p>
 
 ### 🛡 Admin Capabilities
 <p align="center">
-  <img src="screenshots/05_Admin capabilities.png" width="700">
+  <img src="05_Admin capabilities.png" width="700">
 </p>
 
 ---
