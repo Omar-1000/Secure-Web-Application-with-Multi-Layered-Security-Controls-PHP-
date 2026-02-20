@@ -27,7 +27,7 @@ if (isset($_COOKIE['auth_token'])) {
 
         if ($user) {
             // Check if the email belongs to the admin
-            if ($email === "omar.employee12025@gmail.com") {
+            if ($email === "admin email") {
                 // Admin verified, proceed with admin content
                 $firstName = $user['firstName'];
                 $lastName = $user['lastName'];
@@ -118,3 +118,4 @@ if (isset($_GET['logout'])) {
     </table>
 </body>
 </html>
+
