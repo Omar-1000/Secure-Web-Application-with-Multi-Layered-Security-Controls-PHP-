@@ -249,7 +249,7 @@ db/database.sql
 
 ### 🛡 Admin Capabilities
 <p align="center">
-  <img src="05_Admin capabilities.png" width="700">
+  <img src="06_Admin_capabilities.png" width="700">
 </p>
 
 ---
