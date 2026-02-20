@@ -239,7 +239,7 @@ db/database.sql
 
 ### 📝 Registration Page
 <p align="center">
-  <img src="03_sign up page (regidter).png" width="700">
+  <img src="03_sign up page (register).png" width="700">
 </p>
 
 ### 🔢 OTP Verification
