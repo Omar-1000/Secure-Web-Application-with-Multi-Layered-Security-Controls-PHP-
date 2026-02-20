@@ -1,7 +1,7 @@
 # 🔐 Multi-Layered Secure Web Application (PHP)
 
 <p align="center">
-  <img src="01_The_secure_website_interface.png" width="850">
+  <img src="01_The_secure_website_interface.png" width="700">
 </p>
 
 ## 📌 Project Overview
