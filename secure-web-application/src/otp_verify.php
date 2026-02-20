@@ -8,7 +8,7 @@ require "C:\Program Files\Ampps\www\jwt\php-jwt-main\src\key.php";
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
 
-$secretKey = "localhost2025"; // Use a strong secret key
+$secretKey = "localhost2025"; // strong secret key
 
 // Function to verify JWT
 function verifyJWT($jwt, $secretKey) {
@@ -102,3 +102,4 @@ if (!isset($_SESSION['otp']) || !isset($_SESSION['email'])) {
     </div>
 </body>
 </html>
+
